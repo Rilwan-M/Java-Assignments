@@ -1,0 +1,4 @@
+once connection is succesfful with server, whenever a message is sent to the server from client it printed additional character also.  
+if i sent 'Hi' it got as ♥hi so 
+    --> OutputStreamWriter didnt work properly,
+    --> So PrintWriter i used for write message for ouput and for taking input from client I used "Scanner"
